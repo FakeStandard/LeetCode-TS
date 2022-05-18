@@ -1,5 +1,4 @@
 
-
 export function twoSum(nums: number[], target: number): number[] {
     // Approach 1-暴力破解
     let res: number[] = []
