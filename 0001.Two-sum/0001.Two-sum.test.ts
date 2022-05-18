@@ -1,8 +1,5 @@
 import { twoSum } from './0001.Two-sum'
 
-// Test 1
-() => { expect(twoSum([2, 7, 11, 15], 9)).toStrictEqual([0, 1]) }
-
 describe("test twoSum function", () => {
     it("return [0 ,1]", () => {
         expect(twoSum([2, 7, 11, 15], 9)).toStrictEqual([0, 1])
