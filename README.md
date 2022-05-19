@@ -34,5 +34,5 @@
 | 0933 | []() | ... | []() | Easy | [:bulb:]() |
 | 0938 | []() | ... | []() | Easy | [:bulb:]() |
 | 0942 | []() | ... | []() | Easy | [:bulb:]() |
-| 0961 | [N-Repeated Element in Size 2N Array]() | Array | [repeatedNTimes](/0961.N-repeated-element-in-size-2n-array/0961.N-repeated-element-in-size-2n-array.ts/) | Easy | [:bulb:](/0961.N-repeated-element-in-size-2n-array/0961.N-repeated-element-in-size-2n-array.test.ts/) |
+| 0961 | [N-Repeated Element in Size 2N Array](/0961.N-repeated-element-in-size-2n-array/) | Array | [repeatedNTimes](/0961.N-repeated-element-in-size-2n-array/0961.N-repeated-element-in-size-2n-array.ts/) | Easy | [:bulb:](/0961.N-repeated-element-in-size-2n-array/0961.N-repeated-element-in-size-2n-array.test.ts/) |
 | 0977 | []() | ... | []() | Easy | [:bulb:]() |
