@@ -12,3 +12,4 @@
 | 0338 | []() | ... | []() | Easy | [:bulb:]() |
 | 0344 | [Reverse String](/0344.Reverse-string/) | ... | [reverseString](/0344.Reverse-string/0344.Reverse-string.ts/) | Easy |  |
 | 0461 | []() | ... | []() | Easy | [:bulb:]() |
+| 0509 | [Fibonacci Number](/0509.Fibonacci-number/) | Fibonacci | [fib](/0509.Fibonacci-number/0509.Fibonacci-number.ts/) | Easy | [:bulb:](/0509.Fibonacci-number/0509.Fibonacci-number.test.ts/) |
